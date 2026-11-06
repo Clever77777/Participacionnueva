@@ -1,3 +1,6 @@
+import warnings
+warnings.filterwarnings('ignore')
+
 import json
 import time
 import numpy as np
